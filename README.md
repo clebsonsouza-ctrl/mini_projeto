@@ -11,6 +11,7 @@ Tecnologias utilizadas
 - Python
 - Pandas
 - VS Code (ou outro ambiente Python)
+  
 Etapas realizadas
 1. Importação: leitura do CSV e identificação dos tipos de dados.
 2. Transformação: padronização dos textos, verificação das colunas numéricas e conversão de DATA para datetime.
