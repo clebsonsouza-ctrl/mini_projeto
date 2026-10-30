@@ -61,6 +61,5 @@ Limitação importante: as 96.553 linhas idênticas foram removidas como exercí
 Arquivos do projeto
 
 - mini_projeto.ipynb — script da análise.
-- Base Varejo.csv — base original.
 - df_limpo.csv — base tratada produzida pelo script.
 - README.md — documentação e reflexões.
